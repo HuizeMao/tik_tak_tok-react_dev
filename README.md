@@ -1,6 +1,4 @@
-# tik_tak_tok-react_dev
-Web app where users could play tik tak tok with time travelling. Implemented in React. 
+# Steps to run the program
+1. If not already, install the dependencies with `npm install`
+2. Run `npm start` to start a local server and follow the prompts to view the code running in a browser
 
-customize:
-1. run `npm build`
-2. run `npm start`
